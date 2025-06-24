@@ -13,3 +13,6 @@ Mastering React Development
 - JSX Immediately Invoked Function
 - JSX Loop Inside
 - JSX Why Use Map Why Others Loop Not 
+
+
+Slides - https://docs.google.com/presentation/d/1ExRYjBtTzWmx60wXEOkv406sLb6vbg1rHt0YVKsh0LY/edit?usp=sharing
