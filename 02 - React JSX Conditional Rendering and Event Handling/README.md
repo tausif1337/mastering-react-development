@@ -10,3 +10,8 @@ Mastering React Development
 - Passing Properties To Child Component
 - Managing Click Event
 - Managing Form Submit
+
+
+Slides - 
+
+Source Code - https://github.com/tausif1337/react-jsx-conditions-events
