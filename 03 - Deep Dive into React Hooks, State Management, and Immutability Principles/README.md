@@ -7,4 +7,6 @@ Mastering React Development
 - Persisted Mutable Property, Caching Expensive Computation
 - useState Understanding Inside
 - Working With Immutable Object, Immutable Array
-- Spread Operator And Immutability Principle 
+- Spread Operator And Immutability Principle
+
+Slides - https://docs.google.com/presentation/d/1Crc8cyOLnCwCs_1AWPo8Eytc869QyiGsiC0WD_r3cEw/edit?usp=sharing
